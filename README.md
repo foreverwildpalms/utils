@@ -2,7 +2,12 @@
 
 ### Hooks
 
+- useArray
+- useFetch
 - useInput
+- useStorage
+- useTimeout
+- useWindowSize
 
 
 ### Styles
