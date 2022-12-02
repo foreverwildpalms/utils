@@ -1,10 +1,10 @@
 # Utils
 
-### - Hooks
+### Hooks
 
-useInput
+- useInput
 
 
-### - Styles
+### Styles
 
-reset
+- reset
